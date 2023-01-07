@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)
 <h1 align="center">Hi 👋, I'm Abhisek Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and C++ programmer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denver04&label=Profile%20views&color=0e75b6&style=flat" alt="denver04" /> </p>
