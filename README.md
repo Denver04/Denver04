@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Firebase , React-Native , Algorithms**
 
-- 👨‍💻 All of my projects are available at (https://abhisekkumar.netlify.app)
+- 👨‍💻 Portfolio: [https://abhisekkumar.netlify.app]
 
 - 💬 Ask me about **ReactJs , HTML , CSS , C++ , Python , JS**
 
