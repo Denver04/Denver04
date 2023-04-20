@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/denver_kekw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denver_kekw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhisek kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek kumar singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhisekkumarsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek kumar singh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhisekkumarsingh021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhisekkumarsingh021" height="30" width="40" /></a>
 <a href="https://instagram.com/denver_d_deniver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denver_d_deniver" height="30" width="40" /></a>
 </p>
