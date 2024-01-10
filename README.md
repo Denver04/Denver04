@@ -1,12 +1,10 @@
-![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)
+![Us Coding](https://github.com/Denver04/Denver04/assets/87076425/b9782d1a-0549-4ff8-8f6e-f4e56ba489e4)
+
 <h1 align="center">Hi 👋, I'm Abhisek Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer and C++ programmer</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denver04&label=Profile%20views&color=0e75b6&style=flat" alt="denver04" /> </p>
-<img align="right" alt="C++ comder" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/C%2B%2B_Basics_Example1.PNG">
-
-- 🌱 I’m currently learning **Firebase , React-Native , Algorithms**
+<img align="right" alt="C++ comder" width="400" src="https://github.com/Denver04/Denver04/assets/87076425/0b5bc2ee-ea53-4bd7-ae9d-720f189aab23">
 
 - 👨‍💻 Portfolio: https://abhisekkumar.netlify.app
 
