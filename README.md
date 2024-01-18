@@ -8,7 +8,7 @@
 
 - 👨‍💻 Portfolio: https://abhisekkumar.netlify.app
 
-- 💬 Ask me about **ReactJs , HTML , CSS , C++ , Python , JS**
+- 💬 Ask me about **ReactJs , HTML , CSS , C++ , JS**
 
 - 📫 How to reach me **abhisekkumarsingh021@gmail.com**
 
